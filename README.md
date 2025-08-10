@@ -1,3 +1,3 @@
 # DSA
 Assignment of DS
-Author - Ishit Mjzzn
+Author - Ishit Mittal
