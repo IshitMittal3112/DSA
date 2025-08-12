@@ -1,3 +1,4 @@
+// Binary Search
 #include <iostream>
 using namespace std;
 int Binary_Search(int *arr,int n,int num)
