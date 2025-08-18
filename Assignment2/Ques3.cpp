@@ -15,6 +15,7 @@ int MissingNum1(int *arr,int n)
             continue;
         }
     }
+    return -1;
 }
 int MissingNum2(int *arr,int n)
 {
@@ -36,6 +37,7 @@ int MissingNum2(int *arr,int n)
             h=mid-1;
         }
     }
+    return -1;
 }
 int main()
 {
