@@ -53,3 +53,7 @@ int main()
 	else
 		cout<<"Not Balanced\n";
 }
+
+
+//Time Complexity O(n)
+//Space Complexity O(n)
